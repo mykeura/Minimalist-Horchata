@@ -1,6 +1,6 @@
 # Minimalist Horchata 🥛
 
-The official Minimalist Horchata theme for Chromium-based browsers. A minimalist theme with a color palette inspired by Horchata, designed for a serene and elegant browsing experience.
+The official Minimalist Horchata theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Horchata, creating a serene and focused browsing experience.
 
 ![Minimalist Horchata Theme Preview](images/preview.png)
 
