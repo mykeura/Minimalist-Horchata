@@ -1,4 +1,4 @@
-# Minimalist Horchata 🥛
+# Minimalist Horchata
 
 A minimal Chrome theme in a warm, creamy palette, by Miguel Euraque.
 
